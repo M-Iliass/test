@@ -5,6 +5,7 @@ bananas
 yogurt
 milk
 bread
+not bread
 cereal
 eggs
 bacon
@@ -18,3 +19,4 @@ ice cream
 sugar
 flour
 souba
+eggs
