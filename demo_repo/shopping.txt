@@ -9,7 +9,6 @@ not bread
 cereal
 eggs
 bacon
-orange juice
 grapes
 lemons
 lettuce
